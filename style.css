@@ -22,10 +22,13 @@ section{
     
 }
 .tex{
-    margin-top: 80px;
+    margin-top: 3%;
+    
 }
 .half-width img{
     width: 80%;
+
+    
    
     
     
@@ -36,6 +39,7 @@ section{
     padding: 7px;
     color: white;
     border-radius: 6px;
+    
 }
 .about-banner{
     background-image: url(images/shapes/Frame\ 58.jpg);
@@ -63,12 +67,12 @@ section{
 
 .recipice-tex{
     text-align:center;
-    margin: auto;
-    
-    
-
-    
+    width: 80%;
+    margin-left: 10%;     
 }
+
+
+
 .recipice-tex p{
     
 }
