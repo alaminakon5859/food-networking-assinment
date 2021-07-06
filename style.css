@@ -5,6 +5,9 @@ body{
     color: rgb(123, 223, 24);
     text-align: center;
 }
+h1{
+    font-size: 40px;
+}
 section{
     padding-bottom: 150px;
 
@@ -101,7 +104,7 @@ section{
     background-color: rgb(63, 28, 28);
     
 }
-.footer-p{
+#footer-p{
     color: white;
 }
 
