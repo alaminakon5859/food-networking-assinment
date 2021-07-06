@@ -1,9 +1,11 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-.top-head{
-    color: rgb(123, 223, 24);
-    text-align: center;
+marquee{
+    color: rgba(123, 207, 13, 0.966);
+    font-size: 30px;
+}
+
 }
 h1{
     font-size: 40px;
