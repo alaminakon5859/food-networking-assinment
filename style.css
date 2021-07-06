@@ -13,8 +13,8 @@ body{
     padding-left: 2%;
     
 }
-.first-tex{
-    margin-top: 130px;
+.tex{
+    margin-top: 80px;
 }
 .half-width img{
     width: 80%;
@@ -22,9 +22,10 @@ body{
     
     
 }
-.order-button{
+.link-button{
     text-decoration: none;
     background-image: linear-gradient(tomato,rgb(247, 50, 92));
     padding: 7px;
     color: white;
+    border-radius: 6px;
 }
