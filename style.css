@@ -1,3 +1,30 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.section-item{
+    display: flex;
+    padding-bottom: 150px;
+}
+.tomato{
+    color: tomato;
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+    
+}
+.first-tex{
+    margin-top: 130px;
+}
+.half-width img{
+    width: 80%;
+   
+    
+    
+}
+.order-button{
+    text-decoration: none;
+    background-image: linear-gradient(tomato,rgb(247, 50, 92));
+    padding: 7px;
+    color: white;
+}
