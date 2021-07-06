@@ -1,6 +1,10 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.top-head{
+    color: rgb(123, 223, 24);
+    text-align: center;
+}
 section{
     padding-bottom: 150px;
 
@@ -68,3 +72,12 @@ section{
 .recipice-tex p{
     
 }
+
+.footer-area{
+    text-align: center;
+    padding: 70px ;
+    
+    background-color: rgb(37, 27, 27);
+    
+}
+
