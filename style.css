@@ -73,9 +73,24 @@ section{
     
 }
 
+.folllowers{
+    display:flex;
+    width:80%;
+    margin-left: 10%;
+    padding: 20px;
+    box-shadow: 10px 10px 30px rgb(211, 101, 101);
+    
+}
+.followers-item{
+    width: 15%;
+    margin-left: 15%;
+   
+}
+
 .footer-area{
     text-align: center;
     padding: 70px ;
+    margin-top: 100px;
     
     background-color: rgb(37, 27, 27);
     
