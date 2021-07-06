@@ -1,9 +1,13 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+section{
+    padding-bottom: 150px;
+
+}
 .section-item{
     display: flex;
-    padding-bottom: 150px;
+    
 }
 .tomato{
     color: tomato;
@@ -28,4 +32,39 @@ body{
     padding: 7px;
     color: white;
     border-radius: 6px;
+}
+.about-banner{
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    background-position: ;
+}
+
+
+.recipice-item{
+    width: 30%;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-radius: 10px;
+    padding:10px 10px ;
+
+    box-shadow: 15px 10px 30px gray;
+
+}
+.recipice-item img{
+    width: 100%;
+    
+   
+}
+
+
+.recipice-tex{
+    text-align:center;
+    margin: auto;
+    
+    
+
+    
+}
+.recipice-tex p{
+    
 }
